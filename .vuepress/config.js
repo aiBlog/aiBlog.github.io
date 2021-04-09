@@ -2,7 +2,7 @@ module.exports = ctx => ({
   "title": "ByteDance AI Lab",
   "description": "MLNLC publication",
   "dest": "output",
-  "base": ctx.isProd ? '/publication/' : '',
+  "base": ctx.isProd ? '' : '',
   "head": [
     [
       "link",

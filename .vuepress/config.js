@@ -1,5 +1,5 @@
 module.exports = ctx => ({
-  "title": "ByteDance AI Lab",
+  "title": "MLNLC",
   "description": "MLNLC publication",
   "dest": "output",
   "base": ctx.isProd ? '' : '',
@@ -76,7 +76,7 @@ module.exports = ctx => ({
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "MLNLC",
-    "authorAvatar": "/mlnlc.jpg",
+    "authorAvatar": "/avatar.png",
     "record": "ByteDance",
     "startYear": "2017",
     "mode": "light",

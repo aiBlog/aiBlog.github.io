@@ -21,7 +21,7 @@ module.exports = ctx => ({
   ],
   "theme": "reco",
   "themeConfig": {
-    "noFoundPageByTencent": true,
+    "noFoundPageByTencent": false,
     "subSidebar": 'auto',
     "nav": [
       {

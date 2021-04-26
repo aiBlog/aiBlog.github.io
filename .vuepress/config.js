@@ -1,6 +1,6 @@
 module.exports = ctx => ({
-  "title": "MLNLC",
-  "description": "MLNLC publication",
+  "title": "AI Blog",
+  "description": "Text Generation and Machine Translation Blogs",
   "dest": "output",
   "base": ctx.isProd ? '' : '',
   "head": [
@@ -75,7 +75,7 @@ module.exports = ctx => ({
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "MLNLC",
+    "author": "Lilei",
     "authorAvatar": "/avatar.png",
     "record": "ByteDance",
     "startYear": "2017",
